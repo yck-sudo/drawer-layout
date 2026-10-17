@@ -1,0 +1,3 @@
+PingFang SC WOFF2 source: https://github.com/refinec/PingFangSC
+Downloaded 2026-10-17. Third-party distribution; repository license does not establish rights to the underlying Apple font.
+OPPO Sans TTF: copied from locally installed user fonts.
